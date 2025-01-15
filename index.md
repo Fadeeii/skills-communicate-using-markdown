@@ -7,3 +7,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Check the H1 header
+- [ ] Add image
+- [ ] Add a blcok of code
+- [ ] Make a list
