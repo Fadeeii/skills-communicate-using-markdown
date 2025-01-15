@@ -1,1 +1,2 @@
-# Commits I made = Tried the H1 header
+# Check out this Yaktocat!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
